@@ -1,4 +1,4 @@
-export const URL = "http://127.0.0.1:3005";
+export const URL = "http://api.wishesar.nomoredomainswork.ru";
 
 export const MINIMUM_PASSWORD_LENGTH = 3;
 export const MINIMUM_USERNAME_LENGTH = 3;
